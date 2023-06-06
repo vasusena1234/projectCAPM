@@ -1,0 +1,28 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "project capm DB",
+            "database": "${workspaceFolder:projectcapm}//home/user/projects/projectcapm"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "project capm",
+            "database": "${workspaceFolder:projectcapm}//home/user/projects/projectcapm"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "project capm DB",
+            "database": "${workspaceFolder:projectcapm}//home/user/projects/projectcapm"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "project capm DB",
+            "database": "${workspaceFolder:projectcapm}//home/user/projects/projectcapm"
+        }
+    ]
+}
